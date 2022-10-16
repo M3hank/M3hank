@@ -8,7 +8,7 @@
 #### I'm Proficient in OWASP Top 10 Vulnerabilties.
 
 
-## My [Tryhackme](https://tryhackme.com/p/Mk617) Global Rank
+## My [Tryhackme](https://tryhackme.com/p/Mk617) Profile.
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mk617.png" alt="TryHackMe">
 
 
