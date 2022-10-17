@@ -37,7 +37,7 @@
 
 ![Mehank's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight)]
 
 
 ## 🔗 Links
