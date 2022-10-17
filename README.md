@@ -13,10 +13,11 @@
 
 
 ## Languages
-![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=blue)
-![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
-![Bash](https://img.shields.io/badge/-Bash%20Scripting-fff?logo=GNUBASH)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white&style=plastic&logoWidth=20)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white&style=plastic&logoWidth=20)
+![Bash](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?logo=GNUBASH&logoColor=white&style=plastic&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic&logoWidth=20)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=plastic&logoWidth=20)
 
 ## 🛠 Skills
 
