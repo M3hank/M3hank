@@ -21,10 +21,10 @@
 
 ## 🛠 Skills
 
-![Networking](https://img.shields.io/badge/-Networking-blue)
-![Linux](https://img.shields.io/badge/%20-Linux-black)
-![BurpSuite](https://img.shields.io/badge/%20-BurpSuite-orange)
-![CryptoGraphy](https://img.shields.io/badge/%20-Cryptography-lightgrey)
+![Networking](https://img.shields.io/badge/-Networking-blue?style=plastic)
+![Linux](https://img.shields.io/badge/%20-Linux-black?style=plastic)
+![BurpSuite](https://img.shields.io/badge/%20-BurpSuite-orange?style=plastic)
+![CryptoGraphy](https://img.shields.io/badge/%20-Cryptography-lightgrey?style=plastic)
 
 ## Operating Systems I'm Familiar With
 
@@ -41,6 +41,6 @@
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m3hank)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/M3hank)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m3hank)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m3hank)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/M3hank)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/m3hank)
