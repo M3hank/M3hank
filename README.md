@@ -39,7 +39,3 @@
 ![Mehank's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3hank&layout&theme=tokyonight)
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m3hank)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/M3hank)
