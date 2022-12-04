@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/70057473/196027425-ffb7a470-b8c8-4f21-b0e3-982409bc7cbd.png" width = "70%"  img height = "10%">
-
 # Hi, I'm Mehank! 👋
 
 ## 🚀 About Me
