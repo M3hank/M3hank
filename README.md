@@ -18,6 +18,9 @@
 ![Bash](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?logo=GNUBASH&logoColor=white&style=plastic&logoWidth=20)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic&logoWidth=20)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=plastic&logoWidth=20)
+![GO](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=plastic&logoWidth=20)
+
+
 
 ## 🛠 Skills
 
