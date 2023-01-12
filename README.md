@@ -37,8 +37,3 @@
 <img src = "https://user-images.githubusercontent.com/70057473/196030215-e6cc54cb-de32-4c02-8083-295e844f7036.jpg" image height = "40">&nbsp;
 <img src = "https://user-images.githubusercontent.com/70057473/196030260-1dc56290-8ddf-48fc-8a2e-54d1ae51c390.jpg"  img height = "40">&nbsp;
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3hank&langs_count=6&layout=compact&theme=tokyonight)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m3hank&show_icons=true&theme=tokyonight)
