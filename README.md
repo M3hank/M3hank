@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Mehank!
 
-![Profile Views](https://komarev.com/ghpvc/?username=M3hank)
 
 🔍 **Cyber-Security Researcher** | 🐞 **Bug-Bounty Hunter** [@bugcrowd](https://www.bugcrowd.com/) | 🌐 **Web-Application Pentester**
 
