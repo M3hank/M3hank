@@ -43,7 +43,3 @@
 
 ![Mehank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact)
-
-## Get in Touch 📬
-
-If you want to discuss anything related to cybersecurity, feel free to drop me a message or connect with me on my social media!
