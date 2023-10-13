@@ -3,7 +3,12 @@
 
 🔍 **Cyber-Security Researcher** | 🐞 **Bug-Bounty Hunter** [@bugcrowd](https://www.bugcrowd.com/) | 🌐 **Web-Application Pentester**
 
-![Hi, I'm Mehank!](path_to_your_gif.gif)
+
+
+## Stats & Activity 📈
+
+![Mehank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight)
 
 ## About Me 🌐
 
@@ -38,8 +43,3 @@
   <img src="https://user-images.githubusercontent.com/70057473/196030040-6c63ade1-3250-4fda-95a8-3cc63b592623.jpg" height="40" style="margin-right:10px;">
   <img src="https://user-images.githubusercontent.com/70057473/196030156-56ae66cd-eb70-4cc5-9585-b3c4f4700c74.jpg" height="40" style="margin-right:10px;">
 </p>
-
-## Stats & Activity 📈
-
-![Mehank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact)
