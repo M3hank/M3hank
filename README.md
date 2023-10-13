@@ -2,13 +2,49 @@
 
 
 🔍 **Cyber-Security Researcher** | 🐞 **Bug-Bounty Hunter** [@bugcrowd](https://www.bugcrowd.com/) | 🌐 **Web-Application Pentester**
+## About Me 🌐
+
+- 🧠 Self-taught and passionate about Cybersecurity
+- 🎯 Expertise in **Broken Authentication Vulnerabilities**
+- 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
+- 🐦 Twitter: [@m3hank](https://twitter.com/M3hank)
+- 💼 LinkedIn: [Mehank](https://www.linkedin.com/in/m3hank)
+
+#### My TryHackMe profile
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/M3hank.png)](https://tryhackme.com/p/M3hank)
 
 
+## My Projects 🛠️
+
+- [ExplorerPy](https://github.com/M3hank/ExplorerPy): ExplorerPy is a scanning toolkit that can perform subdomain enumeration, directory brute-forcing, and port scanning.
+
+- [Umap - UrlMap](https://github.com/M3hank/umap): Umap is an advanced URL filtering tool written in Go, that intelligently filters out uninteresting URLs.
+
+- [CodeCipher](https://github.com/M3hank/CodeCipher): CodeCipher is an all-in-one data conversion utility, supporting URL, Base64, HTML, Unicode, Hex, and Binary formats.
+
+- [Sub-Scan](https://github.com/M3hank/Sub-Scan): Sub-Scan is a Multi-Threaded Subdomain Discovery Tool written in Python.
+
+### Upcoming Projects
+
+- UrlProbe
+- PanelDetect
 
 ## Stats & Activity 📈
 
-![Mehank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight&langs_count=8)
+<table>
+  <tr>
+    <td align="center" width="650">
+      <img src="https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight" width="450" />
+    </td>
+    <td align="center" width="550">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight&langs_count=6" width="450" />
+    </td>
+    <td align="center" width="650">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M3hank&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=450" width="450" /></a>
+    </td>
+  </tr>
+</table>
+
 
 ## About Me 🌐
 
