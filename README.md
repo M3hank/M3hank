@@ -8,7 +8,7 @@
 ## Stats & Activity 📈
 
 ![Mehank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight&langs_count=8)
 
 ## About Me 🌐
 
