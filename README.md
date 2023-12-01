@@ -24,10 +24,6 @@ I am a self-taught cybersecurity enthusiast who's been diving deep into the worl
   
 - [**Sub-Scan**](https://github.com/M3hank/Sub-Scan): A Multi-Threaded Subdomain Discovery Tool.
 
-### Upcoming Projects
-
-- **UrlProbe**: Expected Release - November 2023
-- **PanelDetect**: Expected Release - January 2024
 
 ## Stats & Activity 📈
 
