@@ -9,7 +9,6 @@ I am a self-taught cybersecurity enthusiast who's been diving deep into the worl
 - 🎯 Specializing in **Broken Authentication Vulnerabilities**
 - 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
 - 🐦 [Twitter](https://twitter.com/M3hank)
-- 💼 [LinkedIn](https://www.linkedin.com/in/m3hank)
 
 #### My TryHackMe profile
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/M3hank.png)](https://tryhackme.com/p/M3hank)
