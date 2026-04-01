@@ -1,66 +1,79 @@
-# 👋 Hi there, I'm Mehank!
+<div align="center">
 
-🔍 **Cyber-Security Researcher** | 🐞 **Bug-Bounty Hunter** | 🌐 **Web-Application Pentester**
-## About Me 🌐
+# Hey, I'm Mehank 👋
 
-I am a self-taught cybersecurity enthusiast who's been diving deep into the world of online security. Over the years, I've acquired expertise in identifying broken authentication vulnerabilities and have a proficiency in the OWASP Top 10 vulnerabilities.
+**Cybersecurity Researcher · Bug Bounty Hunter · Web App Pentester**
 
-- 🧠 Passionate about Cybersecurity
-- 🎯 Specializing in **Broken Authentication Vulnerabilities**
-- 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/M3hank.png)](https://tryhackme.com/p/M3hank)
 
+</div>
 
-#### My TryHackMe profile
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/M3hank.png)](https://tryhackme.com/p/M3hank)
+---
 
-## My Projects 🛠️
+## About Me
 
-- [**ExplorerPy**](https://github.com/M3hank/ExplorerPy): A scanning toolkit for subdomain enumeration, directory brute-forcing, and port scanning.
-  
-- [**Umap - UrlMap**](https://github.com/M3hank/umap): Advanced URL filtering tool written in Go that filters out uninteresting URLs based on certain criteria.
-  
-- [**CodeCipher**](https://github.com/M3hank/CodeCipher): An all-in-one data conversion utility supporting multiple formats such as URL, Base64, and HTML.
-  
-- [**Sub-Scan**](https://github.com/M3hank/Sub-Scan): A Multi-Threaded Subdomain Discovery Tool.
+Self-taught security researcher with a focus on **web application penetration testing** and **bug bounty hunting**. I spend most of my time hunting for vulnerabilities, building recon tooling, and sharpening my offensive security skills.
 
+- 🎯 Specializing in **Broken Authentication** and **OWASP Top 10** vulnerabilities
+- 🛠️ Building open-source tools to automate and improve recon workflows
+- 🐛 Active bug bounty hunter — turning attack surface into findings
+- 📖 Continuously learning — CTFs, labs, and real-world targets
 
-## Stats & Activity 📈
+---
+
+## 🛠️ Projects
+
+| Tool | Language | Description |
+|------|----------|-------------|
+| [**umap**](https://github.com/M3hank/umap) | Go | High-signal URL filter for recon pipelines — deduplicates and strips static noise from URL lists |
+| [**SubSentry**](https://github.com/M3hank/SubSentry) | Python | Subdomain enumeration and monitoring tool |
+| [**ExplorerPy**](https://github.com/M3hank/ExplorerPy) | Python | All-in-one toolkit: subdomain enum, directory brute-force, and port scanning |
+| [**CodeCipher**](https://github.com/M3hank/CodeCipher) | Python | Multi-format data encoder/decoder — URL, Base64, HTML, and more |
+| [**Sub-Scan**](https://github.com/M3hank/Sub-Scan) | Python | Fast multi-threaded subdomain discovery tool |
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Security & Tools**
+
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-brightgreen?style=flat-square)
+![Web App Security](https://img.shields.io/badge/Web%20App%20Security-red?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square)
+
+---
+
+## 📊 Stats
 
 <table>
   <tr>
-    <td align="center" width="550">
-      <img src="https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight" width="450" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight&hide_border=true" width="430" />
     </td>
-    <td align="center" width="550">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight&langs_count=6" width="450" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="300" />
     </td>
-    <td align="center" width="550">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M3hank&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=450" width="450" /></a>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=M3hank&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=750" width="750" />
     </td>
   </tr>
 </table>
 
-## Technologies & Tools ⚙️
+---
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNUBASH&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![GO](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-
-### Skills
-![Networking](https://img.shields.io/badge/-Networking-blue)
-![Linux](https://img.shields.io/badge/-Linux-black)
-![BurpSuite](https://img.shields.io/badge/-BurpSuite-orange)
-![CryptoGraphy](https://img.shields.io/badge/-Cryptography-lightgrey)
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-brightgreen)
-![Web App Security](https://img.shields.io/badge/-Web%20App%20Security-red)
-
-### Operating Systems
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/70057473/196029766-3e5ca608-48b3-4571-8a69-fd379ff2af2f.jpg" height="40">
-  <img src="https://user-images.githubusercontent.com/70057473/196029889-d545acf6-a5da-4838-b40f-633c23f27efc.jpg" height="40">
-  <img src="https://user-images.githubusercontent.com/70057473/196030040-6c63ade1-3250-4fda-95a8-3cc63b592623.jpg" height="40">
-  <img src="https://user-images.githubusercontent.com/70057473/196030156-56ae66cd-eb70-4cc5-9585-b3c4f4700c74.jpg" height="40">
-</p>
+<div align="center">
+  <i>Always learning. Always hunting.</i>
+</div>
