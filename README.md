@@ -16,8 +16,6 @@ Self-taught security researcher with a focus on **web application penetration te
 
 - 🎯 Specializing in **Broken Authentication** and **OWASP Top 10** vulnerabilities
 - 🛠️ Building open-source tools to automate and improve recon workflows
-- 🐛 Active bug bounty hunter — turning attack surface into findings
-- 📖 Continuously learning — CTFs, labs, and real-world targets
 
 ---
 
