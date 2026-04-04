@@ -51,27 +51,3 @@ Self-taught security researcher with a focus on **web application penetration te
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square)
 
 ---
-
-## 📊 Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight&hide_border=true" width="430" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="300" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=M3hank&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=750" width="750" />
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <i>Always learning. Always hunting.</i>
-</div>
