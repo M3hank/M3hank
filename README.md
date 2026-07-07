@@ -21,7 +21,7 @@ I am a self-taught security researcher with a deep passion for **web application
 
 - 🎯 **Specialties:** Broken Authentication, OWASP Top 10, Deep Probing
 - 🛠️ **Focus:** Building robust open-source tools in **Go**, **Python**, and **Bash** to automate and scale recon workflows.
-- ⚙️ **Currently working on:** Expanding the [automation](https://github.com/M3hank/automation) scanner suite with advanced modular probes.
+- ⚙️ **Currently working on:** Expanding my private `automation` scanner suite with advanced modular heuristic probes for GraphQL, K8s, and Spring Boot.
 
 ---
 
@@ -29,8 +29,8 @@ I am a self-taught security researcher with a deep passion for **web application
 
 | Tool | Language | Description |
 |------|----------|-------------|
-| ⚡ [**automation**](https://github.com/M3hank/automation) | Bash | Comprehensive, modular deep scanning suite featuring advanced heuristic probing for GraphQL, K8s, Spring Boot, AWS S3, and more. |
 | 🧰 [**ExplorerPy**](https://github.com/M3hank/ExplorerPy) | Python | All-in-one offensive toolkit: subdomain enumeration, directory brute-forcing, and vulnerability scanning. |
+| 📊 [**Subdomain-Analyzer**](https://github.com/M3hank/Subdomain-Analyzer) | Python | A tool to analyze, score, and prioritize subdomains for security reconnaissance. |
 | 🧹 [**umap**](https://github.com/M3hank/umap) | Go | High-signal URL filter for recon pipelines — intelligently deduplicates and strips static noise from URL lists to speed up active scanning. |
 | 🔍 [**FavHunt**](https://github.com/M3hank/FavHunt) | Python | Fast favicon-based asset mapping and technology fingerprinting tool. |
 | 📡 [**SubSentry**](https://github.com/M3hank/SubSentry) | Python | Subdomain enumeration and continuous monitoring tool that notifies you via Discord. |
