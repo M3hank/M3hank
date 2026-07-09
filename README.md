@@ -21,7 +21,7 @@ I am a self-taught security researcher with a deep passion for **web application
 
 - 🎯 **Specialties:** Broken Authentication, OWASP Top 10, Deep Probing
 - 🛠️ **Focus:** Building robust open-source tools in **Go**, **Python**, and **Bash** to automate and scale recon workflows.
-- ⚙️ **Currently working on:** Expanding my private `automation` scanner suite with advanced modular heuristic probes for GraphQL, K8s, and Spring Boot.
+- ⚙️ **Currently working on:** Expanding my private `automation` scanner suite.
 
 ---
 
