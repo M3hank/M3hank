@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-dark.svg" alt="Mehank — offensive security researcher" width="100%">
+    <img src="assets/banner-dark.svg" alt="Mehank, offensive security researcher" width="100%">
   </picture>
 </div>
 
@@ -17,7 +17,7 @@ stack:     [Go, Python, Bash, Burp Suite, Nuclei]
 status:    hunting
 ```
 
-I hunt the bugs scanners miss — broken authentication, access control gaps, business-logic edges, and the occasional parser quirk. When a manual step slows a hunt down, I automate it, open-source it, and put it back to work.
+I hunt the bugs scanners miss: broken authentication, access control gaps, business-logic edges, and the occasional parser quirk. When a manual step slows a hunt down, I automate it, open-source it, and put it back to work.
 
 <sub>Currently: expanding my private `automation` suite and shipping sharper recon tooling.</sub>
 
@@ -29,9 +29,9 @@ Tools I built because a hunt needed them.
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[SubSentry](https://github.com/M3hank/SubSentry)** | Watches your targets for new subdomains — SQLite baselines, delta detection, and Discord · Slack · Telegram alerts. | `Python` |
+| **[SubSentry](https://github.com/M3hank/SubSentry)** | Watches your targets for new subdomains: SQLite baselines, delta detection, and Discord · Slack · Telegram alerts. | `Python` |
 | **[FavHunt](https://github.com/M3hank/FavHunt)** | Favicon fingerprinting at scale: 1,400+ hashes, infrastructure clustering, and Shodan · Censys · Fofa pivots. | `Python` |
-| **[Subdomain-Analyzer](https://github.com/M3hank/Subdomain-Analyzer)** | Ranks subdomains 0–100 using headers, tech, history, and age — with `--explain` to show the math. | `Python` |
+| **[Subdomain-Analyzer](https://github.com/M3hank/Subdomain-Analyzer)** | Ranks subdomains from 0 to 100 using headers, tech, history, and age, with `--explain` to show the math. | `Python` |
 | **[umap](https://github.com/M3hank/umap)** | Streams URL lists, drops the noise, keeps the parameterized endpoints worth testing. | `Go` |
 | **[ExplorerPy](https://github.com/M3hank/ExplorerPy)** | Subdomain enumeration, directory brute-forcing, and port scanning in one CLI. | `Python` |
 | **[DorkSearcher](https://github.com/M3hank/DorkSearcher)** | Multi-threaded dork scanning across source trees and JS files for secrets, configs, and leftovers. | `Python` |
@@ -49,10 +49,10 @@ Tools I built because a hunt needed them.
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
-- **Recon** — `subfinder` `httpx` `katana` `gau` `amass` `ffuf`
-- **Offense** — `Burp Suite` `Nuclei` `sqlmap` `dalfox` `XSStrike`
-- **Code & secrets** — `trufflehog` `gitleaks` `DorkSearcher`
-- **Runtime** — `Kali Linux` `Docker` `Git` `mitmproxy`
+- **Recon:** `subfinder` `httpx` `katana` `gau` `amass` `ffuf`
+- **Offense:** `Burp Suite` `Nuclei` `sqlmap` `dalfox` `XSStrike`
+- **Code & secrets:** `trufflehog` `gitleaks` `DorkSearcher`
+- **Runtime:** `Kali Linux` `Docker` `Git` `mitmproxy`
 
 ---
 
@@ -65,7 +65,7 @@ Tools I built because a hunt needed them.
   <img height="230" alt="Contribution streak" src="https://streak-stats.demolab.com?user=M3hank&hide_border=true&background=0D1117&border=0D1117&stroke=3DDC97&ring=3DDC97&fire=3DDC97&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=3DDC97&sideLabels=C9D1D9&dates=8B949E">
 </p>
 
-<sub>Public activity only — the findings themselves stay in the report.</sub>
+<sub>Public activity only. The findings themselves stay in the report.</sub>
 
 ---
 
