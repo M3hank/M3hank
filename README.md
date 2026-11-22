@@ -1,51 +1,100 @@
 <div align="center">
-
-# Hey, I'm Mehank 👋
-
-**Cybersecurity Researcher · Bug Bounty Hunter · Web App Pentester**
-
-<a href="https://tryhackme.com/p/M3hank"><img src="https://tryhackme-badges.s3.amazonaws.com/M3hank.png" alt="TryHackMe"></a>
-
-<br/>
-
-<a href="https://github.com/M3hank"><img src="https://komarev.com/ghpvc/?username=M3hank&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" /></a>
-<a href="https://github.com/M3hank?tab=followers"><img src="https://img.shields.io/github/followers/M3hank?style=flat-square&color=blue&label=Followers" alt="Followers" /></a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" alt="Mehank — offensive security researcher" width="100%">
+  </picture>
 </div>
 
----
+## `00` · whoami
 
-## 👨‍💻 About Me
+```yaml
+name:      Mehank
+handle:    "@M3hank"
+role:      offensive security researcher
+focus:     [web app pentesting, bug bounty, recon automation]
+stack:     [Go, Python, Bash, Burp Suite, Nuclei]
+status:    hunting
+```
 
-I am a self-taught security researcher with a deep passion for **web application penetration testing** and **bug bounty hunting**. I spend most of my time hunting for vulnerabilities, engineering highly-automated recon pipelines, and continually sharpening my offensive security skills.
+I hunt the bugs scanners miss — broken authentication, access control gaps, business-logic edges, and the occasional parser quirk. When a manual step slows a hunt down, I automate it, open-source it, and put it back to work.
 
-- 🎯 **Specialties:** Broken Authentication, OWASP Top 10, Deep Probing
-- 🛠️ **Focus:** Building robust open-source tools in **Go**, **Python**, and **Bash** to automate and scale recon workflows.
-- ⚙️ **Currently working on:** Expanding my private `automation` scanner suite.
-
----
-
-## 🛠️ Top Projects & Tools
-
-| Tool | Language | Description |
-|------|----------|-------------|
-| 🧰 [**ExplorerPy**](https://github.com/M3hank/ExplorerPy) | Python | All-in-one offensive toolkit: subdomain enumeration, directory brute-forcing, and vulnerability scanning. |
-| 📊 [**Subdomain-Analyzer**](https://github.com/M3hank/Subdomain-Analyzer) | Python | A tool to analyze, score, and prioritize subdomains for security reconnaissance. |
-| 🧹 [**umap**](https://github.com/M3hank/umap) | Go | High-signal URL filter for recon pipelines — intelligently deduplicates and strips static noise from URL lists to speed up active scanning. |
-| 🔍 [**FavHunt**](https://github.com/M3hank/FavHunt) | Python | Fast favicon-based asset mapping and technology fingerprinting tool. |
-| 📡 [**SubSentry**](https://github.com/M3hank/SubSentry) | Python | Subdomain enumeration and continuous monitoring tool that notifies you via Discord. |
-| 🌐 [**google-dorker**](https://github.com/M3hank/google-dorker) | HTML/JS | Google Dorking tool for authorized security recon — craft and launch precision dork queries easily. |
+<sub>Currently: expanding my private `automation` suite and shipping sharper recon tooling.</sub>
 
 ---
 
-## 💻 Tech Stack & Tools
+## `01` · Selected work
 
-**Languages:**
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Tools I built because a hunt needed them.
 
-**Offensive Tools:**
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nuclei](https://img.shields.io/badge/-Nuclei-0055FF?style=flat-square&logo=projectdiscovery&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[SubSentry](https://github.com/M3hank/SubSentry)** | Watches your targets for new subdomains — SQLite baselines, delta detection, and Discord · Slack · Telegram alerts. | `Python` |
+| **[FavHunt](https://github.com/M3hank/FavHunt)** | Favicon fingerprinting at scale: 1,400+ hashes, infrastructure clustering, and Shodan · Censys · Fofa pivots. | `Python` |
+| **[Subdomain-Analyzer](https://github.com/M3hank/Subdomain-Analyzer)** | Ranks subdomains 0–100 using headers, tech, history, and age — with `--explain` to show the math. | `Python` |
+| **[umap](https://github.com/M3hank/umap)** | Streams URL lists, drops the noise, keeps the parameterized endpoints worth testing. | `Go` |
+| **[ExplorerPy](https://github.com/M3hank/ExplorerPy)** | Subdomain enumeration, directory brute-forcing, and port scanning in one CLI. | `Python` |
+| **[DorkSearcher](https://github.com/M3hank/DorkSearcher)** | Multi-threaded dork scanning across source trees and JS files for secrets, configs, and leftovers. | `Python` |
+
+<sub>Also in the toolbox: [google-dorker](https://github.com/M3hank/google-dorker) for browser-based dorking · [CodeCipher](https://github.com/M3hank/CodeCipher) for payload encode/decode.</sub>
+
+---
+
+## `02` · Arsenal
+
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+- **Recon** — `subfinder` `httpx` `katana` `gau` `amass` `ffuf`
+- **Offense** — `Burp Suite` `Nuclei` `sqlmap` `dalfox` `XSStrike`
+- **Code & secrets** — `trufflehog` `gitleaks` `DorkSearcher`
+- **Runtime** — `Kali Linux` `Docker` `Git` `mitmproxy`
+
+---
+
+## `03` · Signal
+
+<p align="center">
+  <img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=3DDC97&icon_color=3DDC97&text_color=C9D1D9">
+</p>
+<p align="center">
+  <img height="190" alt="Contribution streak" src="https://streak-stats.demolab.com?user=M3hank&hide_border=true&background=0D1117&border=0D1117&stroke=3DDC97&ring=3DDC97&fire=3DDC97&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=3DDC97&sideLabels=C9D1D9&dates=8B949E">
+</p>
+
+<sub>Public activity only — the findings themselves stay in the report.</sub>
+
+---
+
+## `04` · Operating principles
+
+1. **Verify at the sink.** A sanitizer is a claim; the query is the truth.
+2. **Chain the small stuff.** An info leak is ammunition, not a finding.
+3. **Reproduce or it didn't happen.** A report without clean steps is a rumor.
+4. **Rotate when it gets hard.** Depth is a tunnel, not a home.
+
+---
+
+## `05` · Connect
+
+Open to collaboration on recon tooling, web security research, and anything that makes the next hunt faster. Email is the fastest way to reach me.
+
+<p>
+  <a href="https://github.com/M3hank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-M3hank-3DDC97?style=flat-square&labelColor=0D1117&logo=github&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/M3hank"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-M3hank-3DDC97?style=flat-square&labelColor=0D1117&logo=tryhackme&logoColor=white"></a>
+  <a href="https://m3hank.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-m3hank.github.io-3DDC97?style=flat-square&labelColor=0D1117&logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:m3hank1337@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m3hank1337@gmail.com-3DDC97?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Learning is a lifelong process.</sub>
+</p>
+
+<p align="center">
+  <code>m3hank@recon:~$ ▮</code>
+</p>
