@@ -59,10 +59,10 @@ Tools I built because a hunt needed them.
 ## `03` · Signal
 
 <p align="center">
-  <img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=3DDC97&icon_color=3DDC97&text_color=C9D1D9">
+  <img height="230" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=3DDC97&icon_color=3DDC97&text_color=C9D1D9">
 </p>
 <p align="center">
-  <img height="190" alt="Contribution streak" src="https://streak-stats.demolab.com?user=M3hank&hide_border=true&background=0D1117&border=0D1117&stroke=3DDC97&ring=3DDC97&fire=3DDC97&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=3DDC97&sideLabels=C9D1D9&dates=8B949E">
+  <img height="230" alt="Contribution streak" src="https://streak-stats.demolab.com?user=M3hank&hide_border=true&background=0D1117&border=0D1117&stroke=3DDC97&ring=3DDC97&fire=3DDC97&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=3DDC97&sideLabels=C9D1D9&dates=8B949E">
 </p>
 
 <sub>Public activity only — the findings themselves stay in the report.</sub>
