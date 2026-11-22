@@ -69,16 +69,7 @@ Tools I built because a hunt needed them.
 
 ---
 
-## `04` · Operating principles
-
-1. **Verify at the sink.** A sanitizer is a claim; the query is the truth.
-2. **Chain the small stuff.** An info leak is ammunition, not a finding.
-3. **Reproduce or it didn't happen.** A report without clean steps is a rumor.
-4. **Rotate when it gets hard.** Depth is a tunnel, not a home.
-
----
-
-## `05` · Connect
+## `04` · Connect
 
 Open to collaboration on recon tooling, web security research, and anything that makes the next hunt faster. Email is the fastest way to reach me.
 
